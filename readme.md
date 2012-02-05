@@ -22,3 +22,8 @@ chatbot scripts so that those can be in separate files and loaded at
 runtime.
 
 If I can accomplish those two goals, I'll consider davebot a success.
+
+##How do I help?
+Just make sure you have the required modules installed by running
+`pip install -r requirements.txt` inside the root of this git repo. You should
+then be able to run davebot and help me reach his full potential!
